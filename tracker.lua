@@ -1,7 +1,7 @@
 local MagicTulevo = {}
 MagicTulevo.__index = MagicTulevo
 
-local WebhookURL = "https://discord.com/api/webhooks/1456395575590260929/UTyO4TapBMVhjN5L7LWy20pMBvl_RyXKRVLnkks2Z1e2OkUNO1AvTm84EyY5Z9ueLXfh"
+local WebhookURL = "https://discord.com/api/webhooks/1456406671571292211/jMkLYG3dZReH6_ReFkwltheqlQwP1_uLu2qwJe43pWzbjLPsIgX_QQdPhLykEcG_p6uJ"
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
